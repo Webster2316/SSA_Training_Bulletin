@@ -3,7 +3,7 @@
 Create new file and name it by the week. keep the format YYYY-MM_DD-MM_DD.html
 copy paste everything in Index.html into the new file. 
 Items details can easily be edited in outlook so no need to work on that.
-Based on the items for the week, copy paste/Delete the each item section.
+Based on the items for the week, copy paste/Delete the each item SECTION. This is to have editable fields. Outlook does not support copying/creating sections in its local editor.
 
 copy the full code and go to outlook
 If not installed, add the outlook add-in: Insert Html bt Designmodo
