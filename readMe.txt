@@ -4,7 +4,7 @@
 -copy paste everything in Index.html into the new file. 
 Items details can easily be edited in outlook so no need to work on that.
 -Based on the items for the week, copy paste/Delete the each item SECTION. 
-This is to have editable fields. Outlook does not support copying/creating sections in its local editor.
+This is to have editable fields and preserve styling. Outlook does not support copying/creating sections in its local editor.
 -Delete the examples
 
 -copy the full code and go to outlook
