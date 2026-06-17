@@ -1,3 +1,6 @@
+Site Link To visulaise where each section is:
+https://webster2316.github.io/Weekly_Digest_SSA/
+
 ##Template for weekly digest - INSTRUCTIONS
 
 -Create new file and name it by the week. keep the format YYYY-MM_DD-MM_DD.html
