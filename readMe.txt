@@ -10,13 +10,16 @@ Items details can easily be edited in outlook so no need to work on that.
 This is to have editable fields and preserve styling. Outlook does not support copying/creating sections in its local editor.
 -Delete the examples
 
+OUTLOOK:
 -copy the full code and go to outlook
 -If not installed, add the outlook add-in: Insert Html bt Designmodo
 -Opens up the add-in and paste your code
 You can edit item details here
 
 Ctrl F to find template:  
-<!-- COURSE [1] -->
+   <!-- ── COURSE ROW ── -->
+..
+   <!-- ── END COURSE ROW ── -->
+Copy this chunk of code and paste it for however many items are needed beforing moving to outlook.
 
-copy the entire section until right before the start of the other section. 
 
